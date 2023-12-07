@@ -8,4 +8,6 @@
 
 I'm currently learning programming by learning projects (Project-Based-Learning 🔧). And I'm interested in challenging topics. 
 
-![xzqbear's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiong-ZH-zq)
+![xzqbear's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiong-ZH-zq&theme=blue-green)
+
+![xzqbear's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiong-ZH-zq&theme=blue-green)
